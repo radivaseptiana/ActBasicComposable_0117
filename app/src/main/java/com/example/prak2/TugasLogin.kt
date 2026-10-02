@@ -48,5 +48,12 @@ fun TugasLoginScreen(modifier: Modifier = Modifier) {
                 color = Color.Blue,
                 fontWeight = FontWeight.Bold
             )
+            Spacer(modifier = Modifier.height(8.dp))
 
+            // Teks Deskripsi Halaman
+            Text(
+                text = "Ini adalah halaman login,",
+                fontSize = 16.sp,
+                color = Color.White
+            )
 
