@@ -75,3 +75,14 @@ fun TugasLoginScreen(modifier: Modifier = Modifier) {
                 fontWeight = FontWeight.Bold
             )
 
+            Spacer(modifier = Modifier.height(4.dp))
+
+            Text(
+                text = "Radiva Septiana Marcelita",
+                fontSize = 18.sp,
+                color = Color.White,
+                fontWeight = FontWeight.Bold
+            )
+
+
+
