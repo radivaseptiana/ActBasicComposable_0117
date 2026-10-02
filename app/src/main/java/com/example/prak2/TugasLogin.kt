@@ -23,3 +23,7 @@ import androidx.compose.ui.draw.clip
 
 @Composable
 fun TugasLoginScreen(modifier: Modifier = Modifier) {
+    Box(
+        modifier = modifier.fillMaxSize(),
+        contentAlignment = Alignment.TopCenter
+    ) {
